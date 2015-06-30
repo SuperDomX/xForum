@@ -1,13 +1,13 @@
 <?php
 /**
  * @name Forums
- * @desc
+ * @desc Spread the communication while also consolidating support.d
  * @version v0.2
  * @author heylisten@xtiv.net
  * @icon cork.png
  * @mini comments-o
  * @price $25
- * @see community
+ * @see cronos
  * @link forums
  * @todo
  */
