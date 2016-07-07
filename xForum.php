@@ -7,7 +7,7 @@
  * @icon cork.png
  * @mini comments-o
  * @price $25
- * @see cronos
+ * @see community 
  * @link forums
  * @todo
  */
