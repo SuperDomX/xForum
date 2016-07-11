@@ -2,8 +2,8 @@
 /**
  * @name Forums
  * @desc Spread the communication while also consolidating support.d
- * @version v0.2
- * @author heylisten@xtiv.net
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon cork.png
  * @mini comments-o
  * @price $25
